@@ -1,0 +1,1 @@
+# 11.Cheak-for-palindrome
